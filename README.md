@@ -29,6 +29,8 @@ Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computaci
 <br>
 
 ### 🚀 Últimos Proyectos
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br>
 
