@@ -26,15 +26,22 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # ---------------------------------------------------------
+# ---------------------------------------------------------
   # Trabajo 2: Actualizar últimos proyectos/actividad
   # ---------------------------------------------------------
   update-activity:
     name: Update Latest Activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # ¡Súper importante! Le da permiso al bot de guardar el archivo
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Descargar el repositorio (Rama Main)
+        uses: actions/checkout@v4
+        with:
+          ref: main # Fuerza al bot a buscar siempre en tu rama principal
+          
+      - name: Actualizar README con actividad
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
