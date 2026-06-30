@@ -30,9 +30,6 @@ Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computaci
 
 ### 🚀 Últimos Proyectos
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <br>
 
 ### 🚀 Proyectos Destacados
@@ -43,6 +40,14 @@ Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computaci
 - 🚢 **[Predicción de la Supervivencia del Titanic](https://github.com/JorgeHdzRiv/TitanicProjectCienciaDatos)**: Proyecto de Machine Learning enfocado en análisis exploratorio y clasificación.
 - 📈 **[Logros en INEGI - Título de tu proyecto]**: *[Pendiente de agregar descripción]*
 - 🐍 **[Tutorial de Python con ejercicios](https://github.com/JorgeHdzRiv/Python_Tutorial)**: Guía práctica y resolutiva sobre los fundamentos de programación en Python.
+
+<br>
+
+### 📊 Estadísticas y Logros
+
+<p align="center">
+  <img src="https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-metrics.svg" alt="Metrics" />
+</p>
 
 <br>
 
