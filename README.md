@@ -63,6 +63,6 @@ Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computaci
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorhdzriv/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:jor.hdz.riv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="AQUI_VA_TU_ENLACE"><img src="https://img.shields.io/badge/-Portafolio-%232563EB?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+  <a href="mailto:jorge.hdzr96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://jorgehernandez.streamlit.app/"><img src="https://img.shields.io/badge/-Portafolio-%232563EB?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
 </p>
