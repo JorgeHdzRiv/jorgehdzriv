@@ -28,44 +28,35 @@ Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computaci
 
 <br>
 
-### 🚀 Ultimos Proyectos
+### 🚀 Últimos Proyectos
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<br>
 
 ### 🚀 Proyectos Destacados
 
 - 🕵️‍♂️ **[Detección de Fraude en Tarjetas de Crédito](#)**: *[En desarrollo]* Modelo de clustering con KMeans para identificar transacciones anómalas, con interfaz interactiva.
 - 🗺️ **[Índices de Mortalidad y Natalidad en Guanajuato](https://github.com/JorgeHdzRiv/Indices_mortalidad_natalidad_Guanajuato)**: Dashboard interactivo para explorar métricas poblacionales a nivel estatal.
+- ⚽ **[Predicciones Estadísticas - Mundial 2026](#)**: *[En desarrollo]* Análisis de datos históricos, evaluación de estrategias y modelado de predicciones deportivas.
 - 🚢 **[Predicción de la Supervivencia del Titanic](https://github.com/JorgeHdzRiv/TitanicProjectCienciaDatos)**: Proyecto de Machine Learning enfocado en análisis exploratorio y clasificación.
 - 📈 **[Logros en INEGI - Título de tu proyecto]**: *[Pendiente de agregar descripción]*
 - 🐍 **[Tutorial de Python con ejercicios](https://github.com/JorgeHdzRiv/Python_Tutorial)**: Guía práctica y resolutiva sobre los fundamentos de programación en Python.
 
 <br>
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas de Lenguajes
 
-<p align="center">
-  <a href="https://github.com/JorgeHdzRiv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeHdzRiv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JorgeHdzRiv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeHdzRiv&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 
 <br>
 
-### 🏆 Trofeos de GitHub
+### 🐍 Contribuciones en GitHub
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JorgeHdzRiv&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophy" />
-  </a>
+  <img src="https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <br>
@@ -74,6 +65,6 @@ Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computaci
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorhdzriv/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jor.hdz.riv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jor.hdz.riv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="AQUI_VA_TU_ENLACE"><img src="https://img.shields.io/badge/-Portafolio-%232563EB?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
 </p>

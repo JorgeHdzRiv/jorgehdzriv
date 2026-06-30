@@ -47,3 +47,38 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "Actualizando últimos proyectos"
+  # ---------------------------------------------------------
+  # Trabajo 3: Actualizar Estadísticas con Python
+  # ---------------------------------------------------------
+  update-stats:
+    name: Update Stats with Python
+    needs: update-activity # Espera a que termine el trabajo anterior
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          
+      - name: Configurar Entorno Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Instalar librerías (Pandas y Requests)
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Ejecutar el script ETL
+        run: python update_stats.py
+        
+      - name: Guardar y subir los cambios a GitHub
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Automatización: Estadísticas de lenguajes actualizadas" || echo "No hay cambios nuevos para subir"
+          git push
