@@ -1,62 +1,81 @@
-<h1 align="center">Hi there, I'm Jorge Hernandez Rivera <img src="./src/wave.gif" width="30px" ></h1>
+<h1 align="center">Hola, soy Jorge Hernandez Rivera <img src="./src/wave.gif" width="30px" ></h1>
 
-<p align="center"><img align="center" src="./src/cat-work.gif" width='400px'></p>
+<p align="center"><img align="center" src="./src/charts.gif" width='400px'></p>
 
 ---
-<div style="display: inline_block"><br>
-<details>
-  <summary>About me!</summary>
 
-### 🚗 Automotive Systems Engineer I am currently studying Computer Systems and Data Science. 💻!!
-- 💻 I love programming
-- 🤓 I’m currently learning everything
-- 👾 I like the videogames
-- 🗒  Currently I am very obsessed with learning Python, data science and data analysis.
-</details>
+### 👨‍💻 Sobre Mí
 
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="pokemon" height="150"
-  style="border-radius:40px;" src="./src/pokemon.GIF">
-</div><br><br>
-<div> 
-  <a href="https://www.instagram.com/jhdz_ri/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jor.hdz.riv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jorhdzriv/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div><br>
+Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computacionales en la UVEG, en transición hacia el mundo de la **Ciencia y Análisis de Datos**. Me apasiona resolver problemas complejos, automatizar procesos y construir modelos predictivos.
 
-<div>
-<h3 align="left"><img src="./src/project2.gif" width="70px" height="25px">Latest Projects</h3>
+- 🔭 Actualmente enfocado en desarrollar soluciones de Machine Learning, análisis de datos y la creación de dashboards interactivos.
+- 💡 Tecnologías principales: **Python, SQL, Streamlit y Snowflake**.
+- 👾 En mi tiempo libre: Disfruto de los videojuegos y de investigar sobre nuevas arquitecturas de software.
 
-<!-- PROJECTS:START -->
-- [Tutorial de Python con ejercicios| Python](https://github.com/JorgeHdzRiv/Python_Tutorial)
-- [Prediccion de la supervivencia del Titanic| Ciencia de Datos](https://github.com/JorgeHdzRiv/TitanicProjectCienciaDatos)
-- [Indices de Mortalidad y Natalidad en Guanajuato | Analisis de Datos](https://github.com/JorgeHdzRiv/Indices_mortalidad_natalidad_Guanajuato)
+<br>
 
-<!-- PROJECTS:END -->
+### 🛠️ Tecnologías y Herramientas
 
-<div>
+<p align="left">
+  <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alt="Streamlit" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
+  <img alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="right" alt="pokemon" height="130" style="border-radius:20px;" src="./src/pokemon.GIF">
+</p>
 
-<div>
-<h3 align="left"><img src="./src/stat.gif" width="25px" height="25px"> GitHub Stats</h3>
-</div>
+<br>
 
-<div>
+
+
+### 🚀 Ultimos Proyectos
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🚀 Proyectos Destacados
+
+- 🕵️‍♂️ **[Detección de Fraude en Tarjetas de Crédito](#)**: *[En desarrollo]* Modelo de clustering con KMeans para identificar transacciones anómalas, con interfaz interactiva.
+- 🗺️ **[Índices de Mortalidad y Natalidad en Guanajuato](https://github.com/JorgeHdzRiv/Indices_mortalidad_natalidad_Guanajuato)**: Dashboard interactivo para explorar métricas poblacionales a nivel estatal.
+- 🚢 **[Predicción de la Supervivencia del Titanic](https://github.com/JorgeHdzRiv/TitanicProjectCienciaDatos)**: Proyecto de Machine Learning enfocado en análisis exploratorio y clasificación.
+- 📈 **[Logros en INEGI - Título de tu proyecto]**: *[Pendiente de agregar descripción]*
+- 🐍 **[Tutorial de Python con ejercicios](https://github.com/JorgeHdzRiv/Python_Tutorial)**: Guía práctica y resolutiva sobre los fundamentos de programación en Python.
+
+<br>
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
   <a href="https://github.com/JorgeHdzRiv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeHdzRiv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeHdzRiv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeHdzRiv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/JorgeHdzRiv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeHdzRiv&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
 
-<div><br>
+<p align="center">
+  <img src="https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-![Snake animation](https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-contribution-grid-snake.svg)
+<br>
 
+### 🏆 Trofeos de GitHub
 
-### 🏆 GitHub Profile Trophy
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JorgeHdzRiv&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophy" />
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JorgeHdzRiv&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
-</div>
+### 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorhdzriv/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jor.hdz.riv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="AQUI_VA_TU_ENLACE"><img src="https://img.shields.io/badge/-Portafolio-%232563EB?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+</p>
