@@ -12,30 +12,28 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Generar la serpiente
+      # 1. Generar la serpiente directamente en la raíz
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: jorgehdzriv
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg
 
-      # 2. Generar las estadísticas estáticas (Lowlighter Metrics)
+      # 2. Generar las estadísticas directamente en la raíz
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: dist/github-metrics.svg
+          filename: github-metrics.svg # Guardar directo en raíz
           config_timezone: America/Mexico_City
-          # Configuración de qué mostrar
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
           plugin_habits: yes
           plugin_achievements: yes
 
-      # 3. Subir ambos a la rama 'output'
+      # 3. Mover los archivos a la rama 'output'
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: . # <--- Aquí le decimos que tome la raíz, no 'dist'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

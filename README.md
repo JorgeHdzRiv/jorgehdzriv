@@ -48,15 +48,13 @@ Soy Ingeniero en Sistemas Automotrices y actual estudiante de Sistemas Computaci
 ### 📊 Estadísticas y Logros
 
 <p align="center">
-  <img src="https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/JorgeHdzRiv/jorgehdzriv/output/github-metrics.svg" alt="Metrics" />
 </p>
-
-<br>
 
 ### 🐍 Contribuciones en GitHub
 
 <p align="center">
-  <img src="https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JorgeHdzRiv/jorgehdzriv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <br>
